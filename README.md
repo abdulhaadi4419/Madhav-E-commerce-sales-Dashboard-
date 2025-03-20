@@ -32,3 +32,8 @@
 
 
 - <a href="https://github.com/abdulhaadi4419/Madhav-E-commerce-sales-Dashboard-/blob/main/Madhav%20E-commerce%20sale%20analysis%20dashboard.pbix">Dashboard </a>
+
+
+
+![Madhav E-commerce Sales Dashboard](https://github.com/user-attachments/assets/77712734-c227-4104-9134-17d916b347fe)
+
