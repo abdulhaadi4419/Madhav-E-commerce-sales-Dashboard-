@@ -30,3 +30,5 @@
     ✅ Loyalty programs for top customers can drive repeat business.
     ✅ Expand in Maharashtra as it shows the highest sales potential.
 
+
+- <a href="https://github.com/abdulhaadi4419/Madhav-E-commerce-sales-Dashboard-/blob/main/Madhav%20E-commerce%20sale%20analysis%20dashboard.pbix">Dashboard </a>
